@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b7901c83-c8be-4d4b-ad9d-6a53437dadf6)# 💫 About Me:
+💫 About Me:
 👋 Hello, fellow coders! 👩‍💻👨‍💻-<br>📢 Introducing Sonu Kumar, a skilled 🌟 MERN Stack Dev. 🚀<br>🔥 This is my second GitHub account, and I'm excited to embark on new coding adventures! 🌐💻<br><br>Let's create something amazing together! 🤝 I'm ready to collaborate, learn, and share knowledge with the incredible developer community. 🧠💡<br>Get ready to witness some mind-blowing code wizardry! 🪄✨ Stay tuned for some epic projects and contributions. 💪🚀<br>Let's make it a memorable coding journey, filled with creativity, innovation, and a touch of fun! 🎉🌈<br>Happy coding, everyone! 💻😊
 
 
